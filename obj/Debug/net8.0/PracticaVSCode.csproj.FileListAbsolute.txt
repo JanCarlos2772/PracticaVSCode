@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\bin\Debug\net8.0\PracticaVSCode.exe
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\bin\Debug\net8.0\PracticaVSCode.deps.json
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\bin\Debug\net8.0\PracticaVSCode.runtimeconfig.json
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\bin\Debug\net8.0\PracticaVSCode.dll
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\bin\Debug\net8.0\PracticaVSCode.pdb
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\obj\Debug\net8.0\PracticaVSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\obj\Debug\net8.0\PracticaVSCode.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\obj\Debug\net8.0\PracticaVSCode.AssemblyInfo.cs
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\obj\Debug\net8.0\PracticaVSCode.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\obj\Debug\net8.0\PracticaVSCode.sourcelink.json
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\obj\Debug\net8.0\PracticaVSCode.dll
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\obj\Debug\net8.0\refint\PracticaVSCode.dll
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\obj\Debug\net8.0\PracticaVSCode.pdb
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\obj\Debug\net8.0\PracticaVSCode.genruntimeconfig.cache
+C:\Users\DELL\Documents\Proyectos de C# VSCODE\Proyecto C# microsoft repositorio\PracticaVSCode\obj\Debug\net8.0\ref\PracticaVSCode.dll
