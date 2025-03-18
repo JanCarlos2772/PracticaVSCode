@@ -1,4 +1,6 @@
-﻿namespace PracticaVSCode;
+﻿using System.Runtime.CompilerServices;
+
+namespace PracticaVSCode;
 
 
 
@@ -6,8 +8,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Renovar_suscripcion  renovar1 = new Renovar_suscripcion();
-        renovar1.Renovar();
+        /*Renovar_suscripcion  renovar1 = new Renovar_suscripcion();
+        renovar1.Renovar();*/
+
+        Matriz Matriz1 = new Matriz();
+        Matriz1.CrearUna();
         /*
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Cambio 1");
