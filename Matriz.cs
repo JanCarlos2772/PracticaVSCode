@@ -35,6 +35,25 @@ class Matriz
         //Uso de la Propiedad Length para contar el numero de elemtos  o el tamaño de la matriz.
         Console.WriteLine($"The are {fraudulentOrderIDs.Length} fraudulent orders to process.");
 
+        /*La instrucción foreach ofrece una manera sencilla y limpia de iterar los elementos de una matriz. 
+        La instrucción foreach procesa los elementos de matriz en orden creciente de índice, comenzando con el 
+        índice 0 y terminando con el índice Length - 1. Usa una variable temporal para contener el valor del elemento
+         de matriz asociado a la iteración actual. Cada iteración ejecutará el bloque de código que se encuentra debajo 
+         de la declaración foreach.*/
+
+         /*por favor, dime un manera en Csharp para yo almacenar y luego mostrar, el indice y al lado el elemento del array
+          que le corresponde, en un array mientras uso un foreach para recorrer el array*/
+
+         string[] names = ["Rowena", "Robin", "Bao"];
+         foreach(string name in names)
+         {
+            string  i = String.IndexOf(names);
+            Console.WriteLine("");
+         }
+
+
+
+
     }
 
 }
